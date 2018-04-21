@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931623230075",
+    "firebase_url": "https://mymaid-b254a.firebaseio.com",
+    "project_id": "mymaid-b254a",
+    "storage_bucket": "mymaid-b254a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931623230075:android:9302fd4200ae74dc",
+        "android_client_info": {
+          "package_name": "com.homecaresolutions.mymaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931623230075-7vg4v4d088u7uemgd20g2445sjc1lhfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homecaresolutions.mymaid",
+            "certificate_hash": "7fcdc75d51764c6b89e37fbe49213c81b34ace83"
+          }
+        },
+        {
+          "client_id": "931623230075-ivhffdvt7o0b9su5tfqannc2fkuhtdf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtgZJJrc7MTQzFbIrmoOZNQMBULs5LvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931623230075-ivhffdvt7o0b9su5tfqannc2fkuhtdf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMaid</string>
+    <string name="already_user">Already our user? Sign in!</string>
+    <string name="content_description_logo">Logo of the application</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_you_password">Forgot you Password?</string>
+    <string name="password_reset_instructions">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="go_back">Back</string>
+    <string name="jobs_for_today">Jobs For Today</string>
+</resources>
