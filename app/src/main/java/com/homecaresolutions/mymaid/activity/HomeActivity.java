@@ -46,8 +46,9 @@ public class HomeActivity extends AppCompatActivity {
         mJobsList.setLayoutManager(layoutManager);
         mJobsList.setAdapter(mAdapter);
 
-        RecyclerView.ItemDecoration itemDecoration = new DividerItemDecoration(mJobsList.getContext(),layoutManager.getOrientation());
-        mJobsList.addItemDecoration(itemDecoration);
+        DividerItemDecoration decoration = new DividerItemDecoration(mJobsList.getContext(),layoutManager.getOrientation());
+        decoration.setDrawable(mJobsList.getContext().getResources().getDrawable(R.drawable.divider));
+        mJobsList.addItemDecoration(decoration);
     }
 
     public void fillData(ArrayList<String> list) {
